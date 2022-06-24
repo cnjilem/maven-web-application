@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>nexus snapshots</name>
-	      <url>http://3.99.224.144:8081/repository/snapshots/</url>
+	      <url>http://35.182.60.108:8081/repository/paypal-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
